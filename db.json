@@ -1,0 +1,16 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "sourceLanguageText": "Hello, world!",
+      "targetLanguageText": "Hallo, Welt!",
+      "image": "https://ih1.redbubble.net/image.508071916.1341/st,small,845x845-pad,1000x1000,f8f8f8.u6.jpg"
+    },
+    {
+      "sourceLanguageText": "Art",
+      "targetLanguageText": "Die Kunst, Die Künste",
+      "image": "https://mymodernmet.com/wp/wp-content/uploads/2020/10/must-know-paintings-1.jpg",
+      "id": 2
+    }
+  ]
+}
